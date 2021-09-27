@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Sep 2021 18:22:12 at https://www.sysincorporation.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.sysincorporation.com/ -O1 "C:\My Web Sites\St" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:22:14	Warning: 	Note: due to https://www.sysincorporation.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:24:17	Warning: 	File not parsed, looks like binary: https://www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-brands-400.html
+18:24:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/St/www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-brands-400.html
+18:24:17	Warning: 	File not parsed, looks like binary: https://www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-regular-400.html
+18:24:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/St/www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-regular-400.html
+18:24:18	Warning: 	File not parsed, looks like binary: https://www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-solid-900.html
+18:24:18	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/St/www.sysincorporation.com/innovtouch/themes/sys/fonts/fa-solid-900.html
+18:24:19	Warning: 	File not parsed, looks like binary: https://www.sysincorporation.com/innovtouch/themes/sys/fonts/Flaticon.html
+18:24:19	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/St/www.sysincorporation.com/innovtouch/themes/sys/fonts/Flaticon.html
+18:28:55	Warning: 	Moved Permanently for https://www.sysincorporation.com/broodstock/
+18:28:55	Warning: 	File has moved from https://www.sysincorporation.com/broodstock/ to https://www.sysincorporation.com/broodstock-feed/
+18:28:55	Warning: 	Moved Permanently for https://www.sysincorporation.com/larval/
+18:28:55	Warning: 	File has moved from https://www.sysincorporation.com/larval/ to https://www.sysincorporation.com/larval-feed/
+18:28:55	Warning: 	Moved Permanently for https://www.sysincorporation.com/nursery/
+18:28:55	Warning: 	File has moved from https://www.sysincorporation.com/nursery/ to https://www.sysincorporation.com/nursery-feed/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 46 seconds : 340 links scanned, 336 files written (33293115 bytes overall) [33610981 bytes received at 82785 bytes/sec], 5.6 requests per connection
+(No errors, 15 warnings, 0 messages)

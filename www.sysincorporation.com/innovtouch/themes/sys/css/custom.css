@@ -1,0 +1,49 @@
+.project-section.project-2 .project-box {    margin: 15px 0px !important;}
+.breadcrumb .current{    color: #01984a;    text-transform: uppercase;    font-weight: 700;    font-family: roboto,sans-serif;    font-size: 12px;}
+.side_form input,.side_form textarea{margin:15px 0px; border-radius:0px;}
+.side_form textarea{ height:120px; resize:none;}
+.prod_sidebar {    background-color: #fff;   box-shadow: 0 1px 3px rgba(0,0,0,.2);    margin-bottom: 30px;}
+.prod_sidebar h4{    background: #00984a;    color: #fff;    font-weight: 100;    text-align: center;    padding: 10px 0px;    margin: 0;}
+.prod_sidebar li{background: white;    border-bottom: 1px solid #ddd;    display: block;}
+.prod_sidebar li a{    color: #444;    letter-spacing: 0.1px;	    display: block;    padding: 5px 15px;}
+.productss .service-box img{ width:100%; height:220px; object-fit:contain;}
+.prod_slider img{ width:100%; height:170px; object-fit:contain;}
+.prod_slider .project-item{background:#fff;box-shadow: 0 1px 3px rgba(0,0,0,.2);}
+.prod_slider .project-details {box-shadow: none;    padding: 12px 0px 1px;    text-align: center;}
+.prod_slider .project-details h3 a {    font-size: 16px;font-weight: 400;}
+.service-section.section-2 .service-content h3 a {    color: #111;    font-weight: 500;    font-size: 16px;}
+.pager-header h2 {    color: #fff;    font-weight: 400;    font-size: 26px;    letter-spacing: 1px;}
+.prod_single li:before {        content: '';    display: inline-block;    text-rendering: auto;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;    background: #00984a;   height: 8px;    width: 8px;    margin-right: 8px;}
+.contact_info h4{    font-size: 15px;    font-weight: 500;    margin: 0;    padding-top: 10px;}
+.contact-info ul li {    font-weight: 400 !important;    line-height: 20px;    padding: 13px 0px;    display: flex;    align-items: center;    font-size: 14px !important;}
+.products_page .service-content { }
+.products_page .service-box img{ width:100%; height:240px; object-fit:contain;}
+.products_page .service-content h3 a {    color: #111;    font-weight: 500;    letter-spacing: 0.1px;}
+.footer_pro li{    width: 50%;    float: left; letter-spacing:0.1px}
+.footer_pro li a,.footer_pro1 li a{color:#fff;}
+.footer_pro1 li{ letter-spacing:0.1px}
+.copyright-section p{    color: #fff;}
+.copyright-section p a{    color: #00984a;}
+.widget-wrap {    padding: 25px 0;}
+.copyright-section {    display: block;    background-color: #1a1a1a;    border-top: 1px solid #222;    padding: 8px 0 0px;}
+#mainmenu li a {    color: #555;    font-weight: 500;    padding: 30px 0;    display: inline-block;    font-size: 15px;}
+#mainmenu li a:hover {    color: #00984a;}
+.pager-header {    min-height: 170px;}
+#banner-carousel img{height:auto;height: auto !important;}
+#banner-carousel .owl-next {   position: absolute;    right: 15px;    top: 45%;    background: #fff;    padding: 7px 12px;    font-size: 17px;}
+#banner-carousel .owl-prev{  left: 15px;    position: absolute;  top: 45%;    background: #fff;    padding: 7px 12px;    font-size: 17px;}
+.about-section.about-2 .about-slider-wrap {    background-image: url(../img/abt-home.jpg);}
+.service-section.section-2 .service-content {box-shadow: none !important;}
+.service-section.section-2 .service-box {box-shadow: 0 1px 3px rgba(0,0,0,.2);}
+.prod_single h5{    margin: 0px;    padding: 15px 0 3px;}
+.productss .service-content {    min-height: 170px;}
+.testkit img,.prod_single img{height:auto;}
+.accessory .service-content,.broodstockmd .service-content{    min-height: 120px;}
+.contact-wrap {    padding: 35px 32px; margin-top: 150px;}
+#mainmenu li ul {    width: 240px;}
+.widget-content h3 {    color: #fff;    text-transform: uppercase;    font-weight: 400;    margin-bottom: 25px;    position: relative;}
+#crumbs{color: #fff;}
+.abt-home {width:100%;height:auto;}
+.contact-form input,.contact-form textarea,.callout-form input,.callout-form .nice-select{    overflow: visible;    width: 100%;    margin: 7px 0px;    padding: 5px 10px;    border: 1px solid #ccc;}
+.contact-form textarea{ height:120px; resize:none;}
+ .contact-form input[type=submit],.callout-form input[type=submit]{    background: #00984a;    color: #fff;    font-size: 16px;    width: auto;    border: none;    padding: 8px 50px;    margin: 0;}
